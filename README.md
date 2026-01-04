@@ -15,7 +15,6 @@ ProTask is designed to empower efficient task and project management. Seamlessly
 - Members can see the overview of the project i.e: Completed, UnderProgress etc.
 - Users can proceed to checkout and complete their purchase.
 
-
 ## Tech Stacks Used :-
 
 React / Redux / Tailwind Css / Chakra UI / React-Router-Dom / Express / MongoDB 
